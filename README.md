@@ -28,7 +28,7 @@
 <details>
   <summary>Projects 🤖</summary>
 
-- **FastAPI OCR Service** – FastAPI, Azure Blob Storage, MySQL 
+- **FastAPI OCR Service** – FastAPI, Azure Blob Storage, MySQL
   🔗 [GitHub](https://github.com/varshinivaddepalli)
 
 - **Document Intelligence Chatbot with OCR Capabilities** – PaddleOCR, Azure OCR, PyTesseract, PDF Processing  
